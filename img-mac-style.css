@@ -1,8 +1,8 @@
 .img-mac-window {
     display: inline-block;
-    -webkit-box-shadow:     -1px 2px 8px 0px rgba(50, 50, 50, 0.7)
-    -moz-box-shadow:        -1px 2px 8px 0px rgba(50, 50, 50, 0.7)
-    box-shadow:             -1px 2px 8px 0px rgba(50, 50, 50, 0.7)
+    -webkit-box-shadow:     -1px 2px 8px 0px rgba(50, 50, 50, 0.7);
+    -moz-box-shadow:        -1px 2px 8px 0px rgba(50, 50, 50, 0.7);
+    box-shadow:             -1px 2px 8px 0px rgba(50, 50, 50, 0.7);
     -webkit-border-radius:  5px;
     -moz-border-radius:     5px;
     border-radius:          5px;
